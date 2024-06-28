@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="E:/IntelliJ_Folder/ATB6x_RestAssuredLearning/src/test/java/TestNG/Lab105.java"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.012">
+    <properties></properties>
+
+
+
+            <testcase
+                name="TestM3"
+                time="0.003"
+                classname="TestNG.Lab103">
+            </testcase>
+            <testcase
+                name="TestM2"
+                time="0.003"
+                classname="TestNG.Lab103">
+            </testcase>
+            <testcase
+                name="TestM1"
+                time="0.006"
+                classname="TestNG.Lab103">
+            </testcase>
+</testsuite>

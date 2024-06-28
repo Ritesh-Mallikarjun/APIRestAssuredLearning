@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Restful booker api testing">
+    <test verbose="2" preserve-order="true" name="ATB6x_RestAssuredLearning">
+        <classes>
+            <class name="TestNG.Lab103">
+<!--                <methods>-->
+<!--                    <include name="TestM1"></include>-->
+<!--                    <include name="TestM2"></include>-->
+<!--                    <exclude name="TestM1"></exclude>-->
+<!--                </methods>-->
+            </class>
+        </classes>
+    </test>
+</suite>

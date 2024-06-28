@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CRUD_Operations"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.254">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getNonBDDPosRequest"
+                time="1.254"
+                classname="CRUD_Operations.GET_Request.BDD_Style.Lab115">
+            </testcase>
+</testsuite>

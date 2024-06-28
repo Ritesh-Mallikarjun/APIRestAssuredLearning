@@ -1,0 +1,1 @@
+{"uuid":"d5b2844f-9376-4dd8-942d-d356967d85c8","name":"TestNG.Lab104.demo4","children":["45a99b0a-2139-40ae-bb37-ba9ad896363d"],"description":"","befores":[{"name":"demo4","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1719231674496,"stop":1719231674497}],"afters":[],"start":1719231674496,"stop":1719231674498}
