@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Api rest assured_june 25th"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.209">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getMethodM5"
+                time="0.164"
+                classname="June25th_Class_API.Lab122">
+            </testcase>
+            <testcase
+                name="getMethodBot"
+                time="0.006"
+                classname="June25th_Class_API.Lab122">
+            </testcase>
+            <testcase
+                name="getMethodSot"
+                time="0.003"
+                classname="June25th_Class_API.Lab122">
+            </testcase>
+            <testcase
+                name="getMethodGot"
+                time="0.010"
+                classname="June25th_Class_API.Lab122">
+            </testcase>
+            <testcase
+                name="getMethodM1"
+                time="0.006"
+                classname="June25th_Class_API.Lab122">
+            </testcase>
+            <testcase
+                name="getMethodZot"
+                time="0.010"
+                classname="June25th_Class_API.Lab122">
+            </testcase>
+            <testcase
+                name="getMethodM3"
+                time="0.010"
+                classname="June25th_Class_API.Lab122">
+            </testcase>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6x_RestAssuredLearning"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.149">
+    <properties></properties>
+
+
+
+            <testcase
+                name="postMethod"
+                time="0.149"
+                classname="Serialization.GSON.June27th_Class_Concepts.Lab138_Payload_in_Array">
+            </testcase>
+</testsuite>

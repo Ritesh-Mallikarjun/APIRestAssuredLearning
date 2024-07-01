@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6x_RestAssuredLearning"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.125">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getMethodSamePI"
+                time="0.000"
+                classname="June25th_Class_API.Lab123">
+            </testcase>
+            <testcase
+                name="getMethodSamePK"
+                time="0.015"
+                classname="June25th_Class_API.Lab123">
+            </testcase>
+            <testcase
+                name="getMethodSamePA"
+                time="0.110"
+                classname="June25th_Class_API.Lab123">
+            </testcase>
+            <testcase
+                name="getMethodSamePT"
+                time="0.000"
+                classname="June25th_Class_API.Lab123">
+            </testcase>
+            <testcase
+                name="getMethodSamePE"
+                time="0.000"
+                classname="June25th_Class_API.Lab123">
+            </testcase>
+</testsuite>

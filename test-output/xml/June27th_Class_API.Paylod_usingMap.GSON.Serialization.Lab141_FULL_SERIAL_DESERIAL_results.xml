@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6x_RestAssuredLearning"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.195">
+    <properties></properties>
+
+
+
+            <testcase
+                name="postMethodSerialzation"
+                time="4.148"
+                classname="Serialization.GSON.June27th_Class_Concepts.Lab141_FULL_SERIAL_DESERIAL">
+            </testcase>
+            <testcase
+                name="deSerialization"
+                time="0.047"
+                classname="Serialization.GSON.June27th_Class_Concepts.Lab141_FULL_SERIAL_DESERIAL">
+            </testcase>
+</testsuite>

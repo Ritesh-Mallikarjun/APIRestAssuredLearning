@@ -1,0 +1,99 @@
+{
+  "$schema": "https://json-schema.org/draft/2019-09/schema",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "default": {},
+  "title": "Root Schema",
+  "required": [
+    "firstname",
+    "lastname",
+    "totalprice",
+    "depositpaid",
+    "bookingdates",
+    "additionalneeds"
+  ],
+  "properties": {
+    "firstname": {
+      "type": "string",
+      "default": "",
+      "title": "The firstname Schema",
+      "examples": [
+        "Mark"
+      ]
+    },
+    "lastname": {
+      "type": "string",
+      "default": "",
+      "title": "The lastname Schema",
+      "examples": [
+        "Jackson"
+      ]
+    },
+    "totalprice": {
+      "type": "integer",
+      "default": 0,
+      "title": "The totalprice Schema",
+      "examples": [
+        193
+      ]
+    },
+    "depositpaid": {
+      "type": "boolean",
+      "default": false,
+      "title": "The depositpaid Schema",
+      "examples": [
+        true
+      ]
+    },
+    "bookingdates": {
+      "type": "object",
+      "default": {},
+      "title": "The bookingdates Schema",
+      "required": [
+        "checkin",
+        "checkout"
+      ],
+      "properties": {
+        "checkin": {
+          "type": "string",
+          "default": "",
+          "title": "The checkin Schema",
+          "examples": [
+            "2020-04-21"
+          ]
+        },
+        "checkout": {
+          "type": "string",
+          "default": "",
+          "title": "The checkout Schema",
+          "examples": [
+            "2023-03-18"
+          ]
+        }
+      },
+      "examples": [{
+        "checkin": "2020-04-21",
+        "checkout": "2023-03-18"
+      }]
+    },
+    "additionalneeds": {
+      "type": "string",
+      "default": "",
+      "title": "The additionalneeds Schema",
+      "examples": [
+        "Breakfast"
+      ]
+    }
+  },
+  "examples": [{
+    "firstname": "Mark",
+    "lastname": "Jackson",
+    "totalprice": 193,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2020-04-21",
+      "checkout": "2023-03-18"
+    },
+    "additionalneeds": "Breakfast"
+  }]
+}

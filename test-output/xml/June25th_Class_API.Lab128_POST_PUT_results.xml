@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6x_RestAssuredLearning"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="7.807">
+    <properties></properties>
+
+
+
+            <testcase
+                name="putRequest"
+                time="1.661"
+                classname="June25th_Class_API.Lab128_POST_PUT_dependmethod">
+            </testcase>
+            <testcase
+                name="getToken"
+                time="4.819"
+                classname="June25th_Class_API.Lab128_POST_PUT_dependmethod">
+            </testcase>
+            <testcase
+                name="getBookingIDPostMethod"
+                time="1.327"
+                classname="June25th_Class_API.Lab128_POST_PUT_dependmethod">
+            </testcase>
+</testsuite>

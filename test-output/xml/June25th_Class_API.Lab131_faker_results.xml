@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6x_RestAssuredLearning"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.633">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testMethod2"
+                time="0.175"
+                classname="June25th_Class_API.Lab131_faker">
+            </testcase>
+            <testcase
+                name="testMethod1"
+                time="0.458"
+                classname="June25th_Class_API.Lab131_faker">
+            </testcase>
+</testsuite>

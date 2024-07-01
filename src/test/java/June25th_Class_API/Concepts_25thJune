@@ -1,0 +1,14 @@
+Priority concepts
+Same priority, then based on alphabets
+Different priority, then based on the highest to lowest
+Default priority , then it will execute based on alphabets
+Negative priority , then it will execute based on highest priority
+Groups concepts, groups only ,groups with priorities , mixed groups
+Faker java concepts using dependancy, to create a random userdata to test
+Dependonmethods, dependongroups concepts
+Data provider -- Data Driven Testing
+Listeners , suite, methods, test, execution listeners
+Listeners a separate class, testng add a listeners mentioning its class, and add it in xml file
+
+
+

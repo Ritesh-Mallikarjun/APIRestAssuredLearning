@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6x_RestAssuredLearning"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="7.330">
+    <properties></properties>
+
+
+
+            <testcase
+                name="jsonSchemaValidateGet"
+                time="5.792"
+                classname="JSONSchemaValidation.June27th_Class_Concepts.Lab142">
+            </testcase>
+            <testcase
+                name="jsonSchemaValidatePost"
+                time="1.538"
+                classname="JSONSchemaValidation.June27th_Class_Concepts.Lab142">
+            </testcase>
+</testsuite>

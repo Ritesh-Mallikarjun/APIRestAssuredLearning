@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6x_RestAssuredLearning"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.157">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getUserDetails"
+                time="0.125"
+                classname="June25th_Class_API.Lab133">
+            </testcase>
+            <testcase
+                name="getUserDetails"
+                time="0.016"
+                classname="June25th_Class_API.Lab133">
+            </testcase>
+            <testcase
+                name="getUserDetails"
+                time="0.016"
+                classname="June25th_Class_API.Lab133">
+            </testcase>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="Api rest assured_june 25th">
+        <groups>
+            <run>
+                <include name="qa"></include>
+            </run>
+        </groups>
+        
+        
+        <classes>
+           <class name="June25th_Class_API.Lab124"></class>
+        </classes>
+    </test>
+</suite>
